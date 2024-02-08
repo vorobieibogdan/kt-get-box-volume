@@ -1,6 +1,6 @@
-# Get box volume
+# Get Box Volume
 
-Create a function `getBoxVolume` that:
+In this task, create a `getBoxVolume()` function that:
 
-* Accepts `length`, `width`, and `height` parameters (`height` *defaults* to `1`)
-* Returns the volume of a box with the specified dimensions
+- accepts `length`, `width`, and `height` parameters (`height` *defaults* to `1`);
+- returns the volume of a box with the specified dimensions.
